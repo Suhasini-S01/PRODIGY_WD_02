@@ -1,0 +1,50 @@
+body{
+    background-image: url("images/fbg.gif");
+    
+}
+   
+.stopwatch{
+    background-color: #000000;
+  box-sizing: border-box;
+width: 90%;
+max-width: 600px;
+background-position: center;
+text-align: center;
+background-size: cover;
+padding: 40px 0;
+color: #fff;
+margin: 200px auto 0;
+box-shadow: 0 10px 10px rgba(0, 0, 0, 0);
+
+}
+
+
+.stopwatch h1{
+  border: #fff solid 2px;
+background-color: rgb(202, 191, 125);
+color: #000000;
+border-width: 40px;
+  border-radius: 12px;
+    margin-top: 60px;
+    font-size: 70px;
+    font-weight: 300 ;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.buttons
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+.buttons img{
+    width: 60px;
+    margin: 0 20px;
+    cursor: pointer;
+
+}
+
+
+
